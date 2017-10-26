@@ -1,2 +1,4 @@
 # hello-world
-find the guide (again)
+found the guide (again)
+not quite my feeble head though
+a spinning compass
